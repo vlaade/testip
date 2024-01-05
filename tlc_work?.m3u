@@ -1,0 +1,183 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="Киномикс", Fox  
+https://stream01.vnet.am/Fox/mono.m3u8
+#EXTINF:-1 group-title="Киномикс", Fox HD
+http://185.37.150.40:8092/Fox_HD/tracks-v1a1v1/playlist.m3u8 
+#EXTINF:-1 group-title="Киномикс", Fox Life HD
+http://185.37.150.40:8092/Fox_Life_HD/tracks-v1a1v1/playlist.m3u8
+#EXTINF:-1 tvg-id="filmbox-ru" group-title="Киномикс", Filmbox 
+https://tbs01-edge11.itdc.ge/filmbox/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Киномикс", FilmBox Arthouse
+https://tbs01-edge11.itdc.ge/filmboxarthouse/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="plan-b" group-title="Киномикс", Plan B HD
+http://31.148.6.4:10236/index.m3u8
+#EXTINF:-1 group-title="Киномикс", TV XXI
+http://195.54.42.9:8000/play/a06m/index.m3u8
+#EXTINF:-1 group-title="Киномикс", Movie Classic
+https://s12.federal.tv:8082/feda/kkino.stream/playlist.m3u8
+#EXTINF:-1 group-title="Киномикс", Kinoliving 
+http://91.200.160.134:15000/play/a0c4/index.m3u8
+#EXTINF:-1 group-title="Кинопремьеры", BCU Premiere HD 
+http://217.107.34.114:8001/playlist.m3u8
+#EXTINF:-1 group-title="Кинохиты", Viju+ Megahit HD
+https://bl.uma.media/live/485537/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кинохиты", Amedia Hit HD
+http://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кинохиты", Amedia Premium HD 
+http://okkotv-live.cdnvideo.ru/channel/dash/amedia_premium_hd/playlist.mpd
+#EXTINF:-1 group-title="Семейное кино", Star Family HD 
+https://okkotv-live.cdnvideo.ru/channel/Star_Family_HD/1080p.m3u8
+#EXTINF:-1 tvg-id="star-cinema" group-title="Женское кино", Star Cinema HD
+https://okkotv-live.cdnvideo.ru/channel/Star_Cinema_HD/1080p.m3u8
+#EXTINF:-1 group-title="Кинокомедии", Viju+ Comedy HD
+https://bl.uma.media/live/485539/HLS/4614144_3/2/1/playlist.m3u8
+#EXTINF:-1 group-title="Кинокомедии", Shot TV
+http://91.200.160.134:15000/play/a0ow/index.m3u8
+#EXTINF:-1 group-title="Кинокомедии" tvg-id="paramount-comedy", Comedy Central English
+http://208.86.19.13:81/22.stream/index.m3u8
+#EXTINF:-1 group-title="Кинокомедии", Comedy Central
+http://ucdn.beetv.kz/btv/live/hls/000000452.m3u8 
+#EXTINF:-1 group-title="Кинокомедии", Viasat Kino Comedy
+http://91.233.215.250:7272/5RqMvVnGzdoBQbf
+#EXTINF:-1 group-title="Национальное кино", Cinema HD
+https://tbs01-edge11.itdc.ge/park/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальное кино", Hollywood HD 
+https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Национальное кино", Timeless Dizi Channel 
+http://91.200.160.134:15000/play/a0qd/index.m3u8
+#EXTINF:-1 group-title="Страшное кино", Киноужас HD
+http://91.197.104.34:8080/Kinouzhas/video.m3u8
+#EXTINF:-1 group-title="Страшное кино" tvg-id="trashtv", Trash HD 
+https://livetv.mylifeisgood.net.ru/channels/trash.m3u8
+#EXTINF:-1 tvg-id="backustv-horror" tvg-group="Страшное кино", BackusTV Dark HD 
+http://stream.backustv.ru/live/btv2/index.m3u8
+#EXTINF:-1 group-title="Страшное кино", НСТ 
+https://ucdn.beetv.kz/btv/live/hls/000000078.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", .black
+http://109.200.130.123:7029/play/a03e
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", .red
+http://91.207.115.228:5000/c78
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", Amedia_Hit_bad
+http://195.245.99.251:8102
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", Amedia_Premium_bad
+http://91.207.115.228:5000/c58
+
+
+
+
+
+#EXTINF:-1 group-title="Мультсериалы", Cartoon Network
+http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Cartoon Network_bad
+http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Nicktoons
+https://stream01.vnet.am/Boomerang/mono.m3u8 
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Nicktoons_bad
+http://176.222.190.11/btv/SWM/nicktoons/nicktoons.m3u8
+#EXTINF:-1 group-title="Мультсериалы", Советские мультфильмы
+https://s12.federal.tv:8082/feda/sovmulttv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Семейные мультфильмы", Nickelodeon
+https://ucdn.beetv.kz/btv/live/hls/000000499.m3u8 
+#EXTINF:-1 group-title="Семейные мультфильмы", Nickelodeon HD
+http://45.144.31.195:8026/playlist.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Nickelodeon_bad_HD
+http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
+#EXTINF:-1 group-title="Мультфильмы для маленьких", Nick Jr.
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Nick_bad_Jr.
+http://176.222.190.11/btv/icon/Nick_Jr/Nick_Jr.m3u8
+#EXTINF:-1 group-title="Развлекательные", 2x2
+https://s12.federal.tv:8082/feda/dvatv.stream/playlist.m3u8 
+#EXTINF:-1 group-title="ВсЕЕЕеЁёЁ", 2x2_bad
+http://91.207.115.228:5000/c180
+#EXTINF:-1 group-title="Развлекательные", 2x2 HD
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Развлекательные", Discovery HD 
+https://ucdn.beetv.kz/btv/live/hls/000001496.m3u8
+#EXTINF:-1 group-title="Развлекательные", TLC 
+https://ucdn.beetv.kz/btv/live/hls/000001498.m3u8
+#EXTINF:-1 group-title="ВсЕЕЕеЁёЁ", TLC_bad
+http://176.222.190.11/btv/SWM/tlc_hd/tlc_hd.m3u8
+#EXTINF:-1 group-title="Научпоп", Discovery Science HD
+http://edge02.odtv.az/o3/discoveryscience/playlist.m3u8
+#EXTINF:-1 group-title="Научпоп", Big Planet
+http://mfe01.cliptv.az/dash/Nat_Geo_Wild_HDhhhyy7.ism/playlist.mpd
+#EXTINF:-1 group-title="Природа", Animal Planet HD 
+http://europe3.livetv.az/russia/animal_planet_sd_new_2023/playlist.m3u8
+#EXTINF:-1 group-title="Природа", Nat Geo Wild HD
+https://ucdn.beetv.kz/btv/live/hls/000004474.m3u8 
+#EXTINF:-1 group-title="Искусство", Museum TV
+http://31.41.99.166:81/udp/225.0.56.11:1234
+#EXTINF:-1 group-title="Искусство", Театр 
+http://146.158.0.56:80/Teatr/index.m3u8 
+#EXTINF:-1 group-title="Искусство", Театр HD
+http://31.211.77.158:8000/play/a178/index.m3u8
+#EXTINF:-1 group-title="Политические", Вместе-РФ 
+https://federaltv-migra.cdnvideo.ru/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", Дума ТВ 
+https://dumatv.iptv2022.com/tracks-v2a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", Красная линия 
+https://s55766.cdn.ngenix.net/s55766-media-origin/rline_high/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Политические", ЛДПР ТВ 
+http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Мода", Fashion TV HD
+https://okkotv-live.cdnvideo.ru/channel/Fashion_TV_HD/1080p.m3u8
+#EXTINF:-1 group-title="Мода", FashionBox
+http://146.158.0.56:80/FashionBox/index.m3u8
+#EXTINF:-1 group-title="Мода", World Fashion Channel
+https://live-3.otcnet.ru/wfcrusmulti/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Музмикс", MTV 
+http://195.24.89.82:80/MTV_SD/index.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV Europe 
+http://194.114.144.244:8003/play/mtveurope
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV Europe_bad
+http://37.18.239.36:8888/MTV_Adria/index.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV Live HD
+http://93.155.227.38:90/m3u8/mtvlivehd.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV Classic
+http://22436a48.amazzin.pw/iptv/C9AAQCDMRHSBAF/142/index.m3u8
+#EXTINF:-1 group-title="Музмикс", MTV 80's
+http://194.114.144.244:8001/play/mtv80
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV 80's_back
+http://194.145.202.71:8087/udp/239.254.5.229:6060
+#EXTINF:-1 group-title="Музмикс", MTV 90's
+https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музмикс", MTV 00's
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="Музмикс", BackusTV Music 
+https://stream.backustv.ru/live/btv3/index.m3u8
+#EXTINF:-1 group-title="Музмикс", Stingray CMusic
+http://91.200.160.134:15000/play/a0o5/index.m3u8
+#EXTINF:-1 group-title="Музмикс", Stingray iConcerts
+http://91.200.160.134:15000/play/a0q0/index.m3u8 
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", Stingray_iConcerts_back
+https://streamer1.connectto.com/526/mono.m3u8
+#EXTINF:-1 group-title="Рок", Bridge TV Rock
+https://strm.yandex.ru/kal/bridge_tv_fresh/bridge_tv_fresh0.m3u8 
+#EXTINF:-1 group-title="Рок", Stingray Classic Rock
+https://stirr.ott-channels.stingray.com/101/master.m3u8
+#EXTINF:-1 tvg-id="classic-music" group-title="Классическая музыка", Classic Music
+http://91.200.160.134:15000/play/a0s1/index.m3u8
+#EXTINF:-1 tvg-id="classic-music" group-title="ВсЕЕеЁёЁ", Classic Music
+http://92.100.39.32:2289/play/IdXtra/index.m3u8
+#EXTINF:-1 group-title="Классическая музыка", Mezzo 
+http://ott-cdn.ucom.am/s35/04.m3u8
+#EXTINF:-1 tvg-id="mezzo-live-hd" group-title="Классическая музыка", Mezzo Live 
+http://193.33.88.172:8080/mezzo_hd/index.m3u8
