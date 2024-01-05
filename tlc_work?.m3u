@@ -1,6 +1,13 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1  group-title="RTPM",TLC HD
-rtmp://93.189.60.202//1105
+#EXTINF:-1 group-title="Digital TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/425.png",TLC HD
+https://sc.id-tv.kz/TLCHD_34_35.m3u8
+#EXTINF:-1 group-title="Caspel",TLC HD
+http://mfe02.cliptv.az/dash/TLC_HDerre2468.ism/playlist.mpd
+#EXTINF:-1 group-title="Ростелеком (VPN)",TLC
+http://92.100.39.32:2289/play/TLC/index.m3u8
+EXTINF:-1 catchup="append" catchup-minutes="4320" catchup-source="?stream_start_offset=${offset}000000" group-title="ВымпелКом (VPN)",TLC HD
+http://streaming-iptv.voka.tv/eyJvc19uYW1lIjoiV2luZG93cyIsInVzZXJfdWlkIjoiYW5vbnltb3VzXzBmZDgwYmY0LTMxMDctNDkyMy05ODQ5LTFmMTg5MzljMzc0NyIsInByb3RvY29sIjoiaGxzIiwiZHJtIjoic3BidHZjYXMiLCJzZXNzaW9uX2lkIjoiNDYyNzYzZmUtZDQxYy00ZjNmLTk1MjgtMjIzZGM1NTlhOTM5IiwiZG9tYWluX25hbWUiOiJzdHJlYW1pbmctaXB0di52b2thLnR2IiwiaXBfYWRkcmVzcyI6IjEyOC42OS4xNzguNjUiLCJleHBpcmF0aW9uX2RhdGUiOiIyMDIzLTA2LTI5VDE4OjUyOjQ0WiIsInN0cmVhbV9uYW1lIjoiNTExNyIsInN0cmVhbV9wYXRoIjoiL2lwX3Y1IiwiZGF0YWNlbnRlciI6ImludCIsInByb2plY3QiOiJ2b2thX3Byb2R1Y3Rpb24ifQ
+
 #EXTINF:-1 group-title="Киномикс", Fox  
 https://stream01.vnet.am/Fox/mono.m3u8
 #EXTINF:-1 group-title="Киномикс", Fox HD
@@ -65,13 +72,18 @@ http://195.245.99.251:8102
 http://91.207.115.228:5000/c58
 
 
-
-
-
+#EXTINF:-1 group-title="CloudFlare Inc (VPN 🇷🇺)",Nickelodeon HD
+https://livetv.mylifeisgood.ml/channels/nickelodeon-hd.m3u8
+#EXTINF:-1 group-title="Digital TV 🇰🇿" tvg-logo="http://epg.it999.ru/img/423.png",Nickelodeon
+https://sc.id-tv.kz:443/Nickelodeon_34_35.m3u8
+#EXTINF:-1 group-title="Hetzner Online AG (VPN)",CARTOON NETWORK
+http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Cartoon Network
 http://europe3.livetv.az/russia/cartoon_2023/playlist.m3u8
 #EXTINF:-1 group-title="TEST ⓵" ,CARTOOOOON
 http://89.254.128.5:22280/cartoon_network/video.m3u8
+#EXTINF:-1 group-title="Hetzner Online AG",Cartoon network
+http://streamer1.ruslanatv.ru/russia/cartoon_network_sd_2023/playlist.m3u8
 #EXTINF:-1 group-title="Мультсериалы", Nicktoons
 https://stream01.vnet.am/Boomerang/mono.m3u8 
 #EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Nicktoons_bad
