@@ -1,0 +1,47 @@
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", .black
+http://109.200.130.123:7029/play/a03e
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", .red
+http://91.207.115.228:5000/c78
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", Amedia Hit HD
+http://195.245.99.251:8102
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёёЁ", Amedia Premium HD
+http://91.207.115.228:5000/c58
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Cartoon Network
+http://176.222.190.11/btv/SWM/Cartoon-Network_SWM/Cartoon-Network_SWM.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Duck TV HD
+https://strm.yandex.ru/kal/ducktv_belarus/ducktv_belarus0.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Gulli Girl
+https://strm.yandex.ru/kal/gulli_girl_belarus/gulli_girl_belarus0.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", JimJam
+http://lb.homeiptv.org/lb0/Jim_Jam/video.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Nickelodeon HD
+http://176.222.190.11/btv/SWM/Nikelodeon_RU/Nikelodeon_RU.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Nick Jr.
+http://176.222.190.11/btv/icon/Nick_Jr/Nick_Jr.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", Nicktoons
+http://176.222.190.11/btv/SWM/nicktoons/nicktoons.m3u8 
+#EXTINF:-1 group-title="ВсЕЕеЕеЁёЁ", TiJi
+https://strm.yandex.ru/kal/tiji_belarus/tiji_belarus0.m3u8
+#EXTINF:-1 group-title="ВсЕЕЕеЁёЁ", 2x2
+http://91.207.115.228:5000/c180
+#EXTINF:-1 group-title="ВсЕЕЕеЁёЁ", 2x2 HD
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+#EXTINF:-1 group-title="ВсЕЕЕеЁёЁ", TLC HD
+http://176.222.190.11/btv/SWM/tlc_hd/tlc_hd.m3u8    
+#EXTINF:-1 tvg-id="classic-music" group-title="ВсЕЕеЁёЁ", Classic Music
+http://92.100.39.32:2289/play/IdXtra/index.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV Europe
+http://37.18.239.36:8888/MTV_Adria/index.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV Hits
+https://tr003.androidtvbox.co.hu/tr3_MTVHits_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV Live HD
+http://93.155.227.38:555/m3u8/mtvlivehd.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV 80's
+http://194.145.202.71:8087/udp/239.254.5.229:6060
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV 90's
+https://tr003.androidtvbox.co.hu/tr3_MTVRocks_SD/index.m3u8?token=test
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", MTV 00's
+http://89.254.128.5:22280/mtv_00/video.m3u8
+#EXTINF:-1 group-title="ВсЕЕеЁёЁ", Stingray iConcerts
+https://streamer1.connectto.com/526/mono.m3u8  
